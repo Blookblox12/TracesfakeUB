@@ -1,0 +1,32 @@
+.large-input {
+
+    width: 400px;
+    
+    height: 40px;
+    
+    }
+    .large-input {
+        border-radius: 50px;
+        border: 5px solid;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        padding: 10px;
+      }
+      .large-input::-webkit-input-placeholder { 
+        font-family: Jolly good Sans, Comic Sans MS;
+      }
+      body {
+        background-color: rgb(36, 35, 35);
+      }
+      
+      .Title {
+        font-family: Jolly good Sans, Comic Sans MS;
+        color: rgb(105, 105, 105);
+        position: absolute;
+        top: 30%;
+        left: 36%;
+        font-size: 60px;
+      }
+     
